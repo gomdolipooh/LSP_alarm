@@ -25,4 +25,4 @@ refesh_token.py ── 만료된 액세스 토큰 갱신
 
 ## 시연 영상
 
-[카카오톡 알람 프로젝트 시연 영상 보기](./KakaoTalk_20241126_031304784.mp4)
+https://github.com/user-attachments/assets/95f23b92-cee5-4e93-bdfb-809c3a3606b7
